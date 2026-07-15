@@ -49,7 +49,7 @@ Whenever there is uncertainty, prefer the solution that helps users build meanin
 
 # Repository Guide
 
-## docs/founding/WHY_v1.0.md
+## docs/founding/Founding_Document_v1.0.md
 
 Purpose:
 The company's mission.
@@ -64,13 +64,6 @@ Purpose:
 Product requirements.
 
 Read before implementing new features.
-
----
-
-## docs/product/Roadmap.md
-
-Purpose:
-Current roadmap and implementation phases.
 
 ---
 
