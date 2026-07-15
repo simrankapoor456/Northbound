@@ -49,7 +49,7 @@ Whenever there is uncertainty, prefer the solution that helps users build meanin
 
 # Repository Guide
 
-## WHY_v1.0.md
+## docs/founding/WHY_v1.0.md
 
 Purpose:
 The company's mission.
@@ -58,7 +58,7 @@ Read before discussing product direction or making decisions that affect the phi
 
 ---
 
-## PRD.md
+## docs/founding/PRD_v1.0.md
 
 Purpose:
 Product requirements.
@@ -67,7 +67,7 @@ Read before implementing new features.
 
 ---
 
-## ROADMAP.md
+## docs/product/Roadmap.md
 
 Purpose:
 Current roadmap and implementation phases.
