@@ -49,7 +49,7 @@ Whenever there is uncertainty, prefer the solution that helps users build meanin
 
 # Repository Guide
 
-## WHY.md
+## WHY_v1.0.md
 
 Purpose:
 The company's mission.
